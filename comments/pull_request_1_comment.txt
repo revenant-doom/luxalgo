@@ -1,0 +1,1 @@
+Por favor, traduza toda a documentação, comentários do código, README.md e descrições para português brasileiro. O usuário não fala inglês e precisa de toda a documentação em português.
